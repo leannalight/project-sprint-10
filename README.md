@@ -8,8 +8,8 @@ It was designed for practicing form validation with git, command line and regula
 
 ## Technologies used in the project:
 HTML
-CSS
-GIT
+  CSS
+    GIT
 
 ## Instructions on how to deploy the project
 
