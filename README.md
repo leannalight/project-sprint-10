@@ -1,7 +1,7 @@
 # **Project-sprint-10**
 
 ## The used version 
-git tag -a v1.0.0 -m "my final version"
+git tag -a v1.1.0 -m "my third version"
 
 [**Link to this project on github pages**](https://leannalight.github.io/project-sprint-10/)
 
